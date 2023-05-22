@@ -1,1 +1,1 @@
-# Stress-O-Meter
+# Stress-o-meter
